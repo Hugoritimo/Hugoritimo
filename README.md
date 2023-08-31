@@ -1,7 +1,7 @@
 ### Olá! eu sou Victor Hugo 👀👋😉
 
 ![Anurag's Status](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=tokyonight)
-
+<img src="/gif digitar.gif>
 Skills 🚀 <br>
 [![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
