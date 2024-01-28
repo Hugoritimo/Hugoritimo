@@ -1,7 +1,7 @@
 ### Olá! eu sou Victor Hugo 👀👋😉
 
 ![Anurag's Status](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=merko) <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&hide_progress=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo_progress=compact)
 <img align="right" width=310px height=210px alt="side_sticker"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xyeHVpb3ZoczI1ZHRqdWh1c3o5Ymw4NnRxbjY0dTA2OHpiMjB1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif"/> <br>
 Skills 🚀 <br>
