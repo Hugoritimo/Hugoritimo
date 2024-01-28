@@ -1,6 +1,6 @@
 ![Anurag's Status](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=merko) <br>
 <img align="right" width=310px height=210px alt="side_sticker"
-src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExa2xyeHVpb3ZoczI1ZHRqdWh1c3o5Ymw4NnRxbjY0dTA2OHpiMjB1YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3oKIPtjElfqwMOTbH2/giphy.gif"/> <br>
+src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHliM3d0Zmh4cGF6aGUzaWJqMXFucmUwMjMwbzc3OGN2NXZkcjAxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ts1YU0JsXBYoxnlbn4/giphy.gif">
 🖈Skills <br>
 [![Blog](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)]()
 [![Blog](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)]()
