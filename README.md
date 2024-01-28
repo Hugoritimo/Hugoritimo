@@ -15,5 +15,5 @@
 🖈Redes Sociais <br>
 
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/onetap/?next=%2Fp%2FBb9wxHnDOSD%2F&hl=pt-br)
-[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/victor-hugo-sousa-da-silva-28b047206](https://www.linkedin.com/in/victorhugo-da-silva-28b047206/)/)
+[![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/hugoritimo](https://www.linkedin.com/in/hugoritimo/)/)
 
