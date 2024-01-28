@@ -1,4 +1,4 @@
-![Anurag's Status](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=merko) <br>
+![Anurag's Status](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=dark) <br>
 <img align="right" width=310px height=210px alt="side_sticker"
 src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHliM3d0Zmh4cGF6aGUzaWJqMXFucmUwMjMwbzc3OGN2NXZkcjAxciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ts1YU0JsXBYoxnlbn4/giphy.gif">
 🖈Skills <br>
