@@ -1,69 +1,34 @@
-# 👾 Hugoritimo
+# 🚀 Hugo's GitHub Profile
 
 <div align="center">
   <table>
     <tr>
       <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugoritimo&theme=github_dark" alt="Hugo's GitHub Stats"/
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugoritimo&theme=github_dark" alt="Hugo's GitHub Stats"/>
       </td>
       <td>
-        <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300px" alt="Coding GIF"/>
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFyNjQxdDFzaWFweWlpdmNhdmllMmg5cTVzM3FmbnF3aWF3aWx2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CODteyJZwSNEZI0pYO/giphy.webp" width="300px" alt="Coding GIF"/>
       </td>
     </tr>
   </table>
 </div>
 
-## 🛠️ Skills
+### 🛠️ Tech Skills
 
-Aqui estão algumas das minhas principais habilidades técnicas:
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white)
 
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="React"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  </a>
-</div>
+### 🔥 Future Learning
 
-## 📚 Futura Aprendizagem
+![Unity](https://img.shields.io/badge/-Unity-100000?style=flat&logo=unity&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
 
-Estou ansioso para explorar novas tecnologias e ferramentas:
+### 🌐 Socials
 
-<div align="center">
-  <a href="#">
-    <img src="https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white" alt="Unity"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
-  </a>
-</div>
-
-## 🌐 Redes Sociais
-
-Conecte-se comigo nas minhas redes sociais:
-
-<div align="center">
-  <a href="https://www.instagram.com/hugoritimo">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-  </a>
-  <a href="https://www.linkedin.com/in/hugoritimo/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-</div>
-
----
-
-Obrigado por visitar meu perfil! 😄
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/accounts/onetap/?next=%2Fp%2FBb9wxHnDOSD%2F&hl=pt-br)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugoritimo/)
