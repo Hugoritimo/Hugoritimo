@@ -1,4 +1,4 @@
-# 🚀 Hugo's GitHub Profile
+# 👾 Hugoritimo 
 
 ![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=dark)
 
