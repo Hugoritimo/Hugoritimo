@@ -7,7 +7,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugoritimo&theme=github_dark" alt="Hugo's GitHub Stats"/>
       </td>
       <td>
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbjFyNjQxdDFzaWFweWlpdmNhdmllMmg5cTVzM3FmbnF3aWF3aWx2ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/CODteyJZwSNEZI0pYO/giphy.webp" width="300px" alt="Coding GIF"/>
+        <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaGEycnRhcjg4b2tsemlobXNkZTYybHVobmRqbmEyb3NiNzE0ZDQ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/xBoTKewsJO1WL8IL6U/giphy.gif" alt="Coding GIF" width="250px">
       </td>
     </tr>
   </table>
