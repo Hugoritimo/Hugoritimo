@@ -1,4 +1,4 @@
-# 👾 Hugoritimo
+# console.log (Hugoritimo)
 
 <div align="center">
   <table>
