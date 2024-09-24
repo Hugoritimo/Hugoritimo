@@ -1,4 +1,4 @@
-# 💫 Sobre Mim:
+# Sobre Mim  ˎˊ˗ :
 ✅ Estou trabalhando em um aplicativo fullstack de RDO<br>✅ Desenvolvedor FullStack
 
 
