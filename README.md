@@ -1,5 +1,5 @@
 # Sobre Mim  ˎˊ˗ 
-✅ Estou trabalhando em um aplicativo fullstack de RDO<br>✅ Desenvolvedor FullStack
+✅ Estou trabalhando em um aplicativo fullstack de Relatorio Diario de Obra <br> ✅ Desenvolvedor FullStack
 
 ![GIF Animado](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
 
