@@ -1,8 +1,8 @@
-# 💫 About Me:
-✅Estou trabalhando em um aplicativo fullstack de RDO<br>✅Desenvolvedor FullStack
+# 💫 Sobre Mim:
+✅ Estou trabalhando em um aplicativo fullstack de RDO<br>✅ Desenvolvedor FullStack
 
 
-## 🌐 Socials:
+## 🌐 Redes Sociais:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/victor.hh__?igsh=MWZ3d3ZodnltdGZ5OQ==) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hugoritimo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
 # 💻 Tech Stack:
@@ -12,10 +12,10 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Hugoritimo&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### ✍️ Random Dev Quote
+### ✍️
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
+### 🔝 Repositorio mais Contribuido
 ![](https://github-contributor-stats.vercel.app/api?username=Hugoritimo&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
