@@ -1,5 +1,5 @@
 # Sobre Mim  ˎˊ˗ 
-✅ Estou trabalhando em um aplicativo fullstack de Relatorio Diario de Obra <br> 
+✅ Estou trabalhando em um aplicativo fullstack de Relatorio Diario de Obra usando NextJs, NestJS e Prisma. <br> 
 
 ✅ Desenvolvedor FullStack
 
