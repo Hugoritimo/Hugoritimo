@@ -10,10 +10,10 @@ jobs:
     runs-on: ubuntu-latest
     name: generate-github-profile-3d-contrib
     steps:
-      - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: actions/checkout@v3  # Baixa o conteúdo do repositório
+      - uses: yoshi389111/github-profile-3d-contrib@0.7.1  # Usa a ação para gerar o gráfico 3D
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token de autenticação para o repositório
       - name: Commit & Push
         run: |
           git config user.name github-actions
