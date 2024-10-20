@@ -14,6 +14,7 @@ jobs:
       - uses: Hugoritimo/github-profile-3d-contrib@0.7.1  # Usa a ação para gerar o gráfico 3D
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token de autenticação para o repositório
+          USERNAME: Hugoritimo  # Define explicitamente o nome de usuário GitHub
       - name: Commit & Push
         run: |
           git config user.name github-actions
