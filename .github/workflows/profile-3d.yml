@@ -11,7 +11,7 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3  # Baixa o conteúdo do repositório
-      - uses: isaac545454/github-profile-3d-contrib@0.7.1  # Usa a ação para gerar o gráfico 3D
+      - uses: Hugoritimo/github-profile-3d-contrib@0.7.1  # Usa a ação para gerar o gráfico 3D
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}  # Token de autenticação para o repositório
       - name: Commit & Push
