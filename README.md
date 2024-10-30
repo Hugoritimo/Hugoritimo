@@ -2,8 +2,6 @@
 
 Desenvolvedor fullstack com paixão por tecnologia, automação e otimização de processos. Sempre em busca de aprender e criar soluções que realmente fazem a diferença.
 
-![Zelda Animation](https://media.giphy.com/media/R8HfQi1bZog5y/giphy.gif)
-
 ---
 
 ## 🔧 Tecnologias
