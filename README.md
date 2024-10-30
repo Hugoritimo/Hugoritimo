@@ -1,36 +1,25 @@
-# Olá, eu sou o Hugoritimo! 👋
+# 👋 Olá, eu sou o Hugoritimo
 
-Entusiasta de tecnologia e desenvolvimento fullstack, com foco em criar soluções eficientes e otimizar processos. Apaixonado por programação e sempre em busca de novos desafios.
+Desenvolvedor fullstack com paixão por tecnologia, automação e otimização de processos. Sempre em busca de aprender e criar soluções que realmente fazem a diferença.
 
----
-
-## 🚀 Habilidades Técnicas
-
-- **Linguagens & Frameworks:** JavaScript, TypeScript, React, Next.js, NestJS
-- **Design & Ferramentas:** Figma, Tailwind CSS, Chakra UI
-- **DevOps & Ferramentas:** Docker, Linux, Git, Vercel
-- **Banco de Dados:** PostgreSQL, MongoDB
+![Coding Animation](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
 
 ---
 
-## 🌱 Atualmente Aprendendo
+## 🔧 Tecnologias
 
-- Prisma e práticas avançadas com PostgreSQL
-- Integração de aplicações com Capacitor para Android
-- Ferramentas de automação para projetos e gestão de TI
+JavaScript, TypeScript, React, Next.js, NestJS, Tailwind CSS, Docker, PostgreSQL
 
 ---
 
-## 📈 Projetos em Destaque
+## 📊 Estatísticas do GitHub
 
-- **ConstruLink**: Aplicativo para Relatórios Diários de Obras com exportação em PDF, gestão de RDOS e funcionalidades de login e notificações.
-- **ProjetaBot**: Bot de automação de processos no WhatsApp, criado para facilitar a comunicação interna.
-- **Hotel Management**: Sistema de gestão de reservas de hotel, desenvolvido com NextJS e NestJS, incluindo integração com PostgreSQL e autenticação JWT.
+![Estatísticas do GitHub de Hugoritimo](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=transparent)
 
----
-
-## 📫 Conecte-se Comigo
-
-[LinkedIn](https://linkedin.com/in/Hugoritimo) | [GitHub](https://github.com/Hugoritimo) | [Instagram](https://instagram.com/Hugoritimo)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&layout=compact&theme=transparent)
 
 ---
+
+## 📫 Vamos Conectar
+
+[LinkedIn](https://linkedin.com/in/Hugoritimo) | [GitHub](https://github.com/Hugoritimo)
