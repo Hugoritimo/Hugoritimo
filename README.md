@@ -1,10 +1,36 @@
-<div align="center" style="background-color: black; padding: 20px; color: white;">
+# Olá, eu sou o Hugoritimo! 👋
 
-Status
-<a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"> <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Hugoritimo&theme=2077&utcOffset=-3" /> <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugoritimo&theme=2077" /> </a>
+Entusiasta de tecnologia e desenvolvimento fullstack, com foco em criar soluções eficientes e otimizar processos. Apaixonado por programação e sempre em busca de novos desafios.
 
-<br /><br />
-<a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,react,next,tailwind,vue,nest,docker,github,linux,postgres&theme=dark&color=ffffff" style="filter: invert(1);" /> </a>
+---
 
-<br /><br />
-<img src="https://github-profile-trophy.vercel.app/?username=Hugoritimo&theme=onestar&row=1&column=6&margin-w=15&margin-h=15" style="filter: invert(1);" /> </div>
+## 🚀 Habilidades Técnicas
+
+- **Linguagens & Frameworks:** JavaScript, TypeScript, React, Next.js, NestJS
+- **Design & Ferramentas:** Figma, Tailwind CSS, Chakra UI
+- **DevOps & Ferramentas:** Docker, Linux, Git, Vercel
+- **Banco de Dados:** PostgreSQL, MongoDB
+
+---
+
+## 🌱 Atualmente Aprendendo
+
+- Prisma e práticas avançadas com PostgreSQL
+- Integração de aplicações com Capacitor para Android
+- Ferramentas de automação para projetos e gestão de TI
+
+---
+
+## 📈 Projetos em Destaque
+
+- **ConstruLink**: Aplicativo para Relatórios Diários de Obras com exportação em PDF, gestão de RDOS e funcionalidades de login e notificações.
+- **ProjetaBot**: Bot de automação de processos no WhatsApp, criado para facilitar a comunicação interna.
+- **Hotel Management**: Sistema de gestão de reservas de hotel, desenvolvido com NextJS e NestJS, incluindo integração com PostgreSQL e autenticação JWT.
+
+---
+
+## 📫 Conecte-se Comigo
+
+[LinkedIn](https://linkedin.com/in/Hugoritimo) | [GitHub](https://github.com/Hugoritimo) | [Instagram](https://instagram.com/Hugoritimo)
+
+---
