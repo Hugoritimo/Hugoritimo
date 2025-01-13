@@ -63,4 +63,3 @@ Desenvolvedor **fullstack** apaixonado por **tecnologia**, **automação** e **o
 
 ---
 
-💻 *Gostou do layout? Use as ferramentas acima para criar o seu próprio estilo! 🚀*
