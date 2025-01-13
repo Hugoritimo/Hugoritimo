@@ -38,7 +38,7 @@ Desenvolvedor **fullstack** apaixonado por **tecnologia**, **automação** e **o
 ![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Hugoritimo&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true)
 
 ### ⏳ Tempo de Codificação
-![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=hugoritimo&theme=dark)
+![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Hugoritimo&theme=dark)
 
 
 ---
