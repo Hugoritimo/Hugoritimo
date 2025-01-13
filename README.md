@@ -24,8 +24,8 @@ Desenvolvedor **fullstack** apaixonado por **tecnologia**, **automação** e **o
 
 ## 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub de Hugoritimo](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=radical)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&layout=compact&theme=radical)
+![Estatísticas do GitHub de Hugoritimo](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=dark)  
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&layout=compact&theme=dark)
 
 ---
 
@@ -49,4 +49,4 @@ Aplicativo completo para criação e gerenciamento de RDOS, com exportação de 
 
 ---
 
-💡 *"A tecnologia só faz sentido quando é usada para resolver problemas reais e criar novas possibilidades."*  
+💡 *"A tecnologia só faz sentido quando é usada para resolver problemas reais e criar novas possibilidades."*
