@@ -24,21 +24,21 @@ Desenvolvedor **fullstack** apaixonado por **tecnologia**, **automação** e **o
 
 ## 📊 Minhas Estatísticas
 
-![Estatísticas do GitHub de Hugoritimo](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=dark)  
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&layout=compact&theme=dark)
+### 🌟 Resumo do Perfil
+![Resumo do Perfil](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Hugoritimo&theme=tokyonight)
 
----
+### 💻 Linguagens e Repositórios
+![Linguagens Mais Usadas](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hugoritimo&theme=tokyonight)  
+![Linguagens Mais Comuns](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Hugoritimo&theme=tokyonight)
 
-## 🌐 Projetos em Destaque
+### 🔥 Streaks no GitHub
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Hugoritimo&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0)
 
-🔗 [**RDO Manager**](https://github.com/Hugoritimo/rdo-manager)  
-Sistema de Relatórios Diários de Obras (RDO), permitindo gestão e visualização de informações detalhadas diretamente no navegador.
+### 📈 Atividade Recente
+![Atividade no GitHub](https://github-readme-activity-graph.vercel.app/graph?username=Hugoritimo&bg_color=0d1117&color=79ff97&line=79ff97&point=ffffff&area=true&hide_border=true)
 
-🔗 [**ProjetaBot**](https://github.com/Hugoritimo/projetabot)  
-Bot de automação para WhatsApp, focado em otimizar processos corporativos e comunicação.
-
-🔗 [**ConstruLink**](https://github.com/Hugoritimo/construlink)  
-Aplicativo completo para criação e gerenciamento de RDOS, com exportação de PDF e funcionalidade de login seguro.
+### ⏳ Tempo de Codificação
+> *Se você usa WakaTime, insira seus dados aqui!*
 
 ---
 
@@ -50,3 +50,16 @@ Aplicativo completo para criação e gerenciamento de RDOS, com exportação de 
 ---
 
 💡 *"A tecnologia só faz sentido quando é usada para resolver problemas reais e criar novas possibilidades."*
+
+---
+
+## 🛠 Badges Personalizados
+
+![GitHub Followers](https://img.shields.io/github/followers/Hugoritimo?style=social)  
+![GitHub Stars](https://img.shields.io/github/stars/Hugoritimo?style=social)  
+![Repositórios](https://img.shields.io/badge/Repos-10-blue)  
+![Linguagens Ativas](https://img.shields.io/github/languages/top/Hugoritimo)
+
+---
+
+💻 *Gostou do layout? Use as ferramentas acima para criar o seu próprio estilo! 🚀*
