@@ -10,8 +10,8 @@
 
 ## Tecnologias
 
-**Front-end:** JavaScript, TypeScript, React, Next.js, Tailwind CSS  
-**Back-end:** Node.js, NestJS, PostgreSQL, Docker  
+**Front-end:** JavaScript, TypeScript, React, Tauri, Next.js, Tailwind CSS  
+**Back-end:** Node.js, NestJS, PostgreSQL, Django, Docker  
 
 ## Estatísticas
 
