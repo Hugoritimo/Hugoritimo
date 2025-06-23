@@ -8,7 +8,7 @@ Desenvolvedor Fullstack com foco em criar soluções digitais robustas, automati
 
 </td>
     <td>
-      <img src="https://media.giphy.com/media/Ynl1mWnR7qfdu/giphy.gif" width="180" />
+      <img src="https://external-preview.redd.it/wTxaBE4a70G8MbQ-8c7FI7TbV250Z6HPHlVTl2gICV8.gif?width=255&format=mp4&s=c52149836c79adc769bbf066781679835836d250" width="180" />
     </td>
   </tr>
 </table>
