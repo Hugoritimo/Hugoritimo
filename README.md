@@ -1,10 +1,11 @@
 <table>
   <tr>
     <td valign="top">
-##Hugoritimo
+      
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Fullstack;Inovação+e+Eficiência;Transformando+ideias+em+software&center=true&width=500&height=50&color=AF1B1B&vCenter=true&size=25)](https://github.com/Hugoritimo)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Fullstack;Automação+de+processos+internos;Tech+Lover+%F0%9F%92%BB&center=true&width=500&height=50&color=AF1B1B&vCenter=true&size=25)](https://github.com/Hugoritimo)
-
+# Hugoritimo
+Desenvolvedor Fullstack com foco em soluções digitais robustas...
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake-dark.svg">
