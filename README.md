@@ -1,6 +1,6 @@
-<table>
+<table width="100%">
   <tr>
-    <td valign="top">
+    <td valign="top" width="70%">
       
 <h1 align="center">
 
@@ -8,21 +8,20 @@
 
 </h1>
 
-
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake-dark.svg">
-  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake.svg">
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake.svg" style="width: 100%; max-width: 600px;">
 </picture>
 
-
-</td>
-    <td>
-      <img src="https://media.giphy.com/media/L5lpqXpERqEThETyI4/giphy.gif" width="180" />
+  </td>
+    <td align="center" width="18%">
+      <img src="https://media.giphy.com/media/L5lpqXpERqEThETyI4/giphy.gif" alt="GIF" style="max-width: 100%; height: auto;" />
     </td>
   </tr>
 </table>
+
+
 
 ---
 
