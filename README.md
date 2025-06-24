@@ -1,10 +1,22 @@
 <table>
   <tr>
     <td valign="top">
-
-  # Hugoritimo
       
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Fullstack;Inovação+e+Eficiência;Transformando+ideias+em+software&center=true&width=500&height=50&color=AF1B1B&vCenter=true&size=25)](https://github.com/Hugoritimo)
+  <h2 align="center">
+  <strong><span style="color:#00BFFF">Hugoritimo</span></strong>
+</h2>
+
+<h1 align="center">
+
+
+ [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Desenvolvedor+Fullstack;Inovação+e+Eficiência;Transformando+ideias+em+software&center=true&width=500&height=50&color=#1e90ff&vCenter=true&size=25)](https://github.com/Hugoritimo)
+</h1>
+
+
+<h2 align="center">
+  <strong><span style="color:#00BFFF">Hugoritimo</span></strong>
+</h2>
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake-dark.svg">
