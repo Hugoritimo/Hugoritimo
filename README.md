@@ -7,7 +7,7 @@
 Desenvolvedor Fullstack com foco em criar soluções digitais robustas, automatizadas e eficientes. Acredito na tecnologia como ferramenta para resolver problemas reais, otimizar processos e gerar valor.
 
 
-![Snake dark](https://github.com/Hugoritimo/Hugoritimo/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![Snake animation](https://github.com/Hugoritimo/Hugoritimo/blob/output/github-contribution-grid-snake.svg)
 
 
 </td>
