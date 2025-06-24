@@ -5,8 +5,6 @@
 # Hugoritimo
 
 Desenvolvedor Fullstack com foco em criar soluções digitais robustas, automatizadas e eficientes. Acredito na tecnologia como ferramenta para resolver problemas reais, otimizar processos e gerar valor.
-
-
 </td>
     <td>
       <img src="https://media.giphy.com/media/L5lpqXpERqEThETyI4/giphy.gif" width="180" />
