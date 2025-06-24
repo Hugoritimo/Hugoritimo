@@ -5,7 +5,9 @@
 # Hugoritimo
 
 Desenvolvedor Fullstack com foco em criar soluções digitais robustas, automatizadas e eficientes. Acredito na tecnologia como ferramenta para resolver problemas reais, otimizar processos e gerar valor.
-![Snake animation](https://raw.githubusercontent.com/seuUsuario/Hugoritimo/output/github-contribution-grid-snake.svg)
+
+
+![Snake animation](https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake.svg)
 
 </td>
     <td>
