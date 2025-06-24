@@ -5,9 +5,8 @@
 # Hugoritimo
 
 Desenvolvedor Fullstack com foco em criar soluções digitais robustas, automatizadas e eficientes. Acredito na tecnologia como ferramenta para resolver problemas reais, otimizar processos e gerar valor.
-<td valign="center"
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12155048857&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
-/>
+
 </td>
     <td>
       <img src="https://media.giphy.com/media/L5lpqXpERqEThETyI4/giphy.gif" width="180" />
