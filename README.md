@@ -4,7 +4,7 @@
       
 <h1 align="center">
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hugoritimo;Hugoritimo;Hugoritimo&center=true&width=600&height=60&color=1e90ff&vCenter=true&size=40&duration=7000&pause=2000)](https://github.com/Hugoritimo)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hugoritimo;Hugoritimo;Hugoritimo&center=true&width=600&height=60&color=FFFFFF&vCenter=true&size=40&duration=7000&pause=2000)](https://github.com/Hugoritimo)
 
 </h1>
 
