@@ -7,7 +7,11 @@
 Desenvolvedor Fullstack com foco em criar soluções digitais robustas, automatizadas e eficientes. Acredito na tecnologia como ferramenta para resolver problemas reais, otimizar processos e gerar valor.
 
 
-![Snake animation](https://github.com/Hugoritimo/Hugoritimo/blob/output/github-contribution-grid-snake.svg)
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake-dark.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/mari4souza/mari4souza/output/github-contribution-grid-snake.svg">
+</picture>
 
 
 </td>
