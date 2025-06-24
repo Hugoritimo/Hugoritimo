@@ -5,6 +5,7 @@
 # Hugoritimo
 
 Desenvolvedor Fullstack com foco em criar soluções digitais robustas, automatizadas e eficientes. Acredito na tecnologia como ferramenta para resolver problemas reais, otimizar processos e gerar valor.
+
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=12155048857&cover_image=false&theme=default&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
 
 </td>
@@ -69,7 +70,6 @@ Node.js · NestJS · PostgreSQL · Django · Docker
 
 - Visual Studio Code com JetBrains Mono  
 - Git e GitHub Actions  
-- Power Automate e Power Apps para low-code corporativo  
 - Docker para ambientes isolados
 
 ---
