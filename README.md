@@ -4,9 +4,11 @@
       
 <h1 align="center">
 
+  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Hugoritimo;Hugoritimo;Hugoritimo&center=true&width=600&height=60&color=1e90ff&vCenter=true&size=40&duration=7000&pause=2000)](https://github.com/Hugoritimo)
 
- [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hugoritimo;Hugoritimo;Hugoritimo&center=true&width=500&height=50&color=#1e90ff&vCenter=true&size=25)](https://github.com/Hugoritimo)
 </h1>
+
+
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake-dark.svg">
