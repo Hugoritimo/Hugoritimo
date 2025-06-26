@@ -62,6 +62,7 @@ Node.js · NestJS · PostgreSQL · Django · Docker
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=adbac7)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hugoritimo&theme=chartreuse_dark) 
 
 ---
 
