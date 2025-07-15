@@ -47,14 +47,14 @@ Node.js · NestJS · PostgreSQL · Django · Docker
 
 ## 🌟 Projetos em Destaque
 
-- [**EngenHub**](https://github.com/Hugoritimo/EngenHub)  
-  Plataforma SaaS voltada para empresas de engenharia com RDO digital, controle de equipe e indicadores técnicos.
+- [**Construlink**](https://github.com/Hugoritimo/ConstruLink.git) 
+  Plataforma de RDO (Relatorio Diário de Obra) voltada para importação e exportação de Dados
 
-- [**ProjetaBot**](https://github.com/Hugoritimo/ProjetaBot)  
-  Bot automatizado para abertura de chamados via WhatsApp integrado ao GLPI e FastAPI.
+- [**TechGO**](https://github.com/Hugoritimo/TechGO.git)
+  Aplicativo de suporte que busca os técnicos de sua região
 
-- [**DopaScan**](https://github.com/Hugoritimo/DopaScan)  
-  Sistema experimental que utiliza IA para estimar estímulos dopaminérgicos em vídeos curtos, usando Python e Streamlit.
+- [**NFSCheckout**](https://github.com/Hugoritimo/NFSCheckout.git) 
+  Sistema de Exportação de Dados de uma nota fiscal e buscar os melhores fornecedores usando IA,  Tauri JS para front end e Python para exportação de Dados no backend.
 
 ---
 
