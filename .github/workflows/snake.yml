@@ -15,7 +15,7 @@ jobs:
           github_user_name: Hugoritimo
           outputs: |
             dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=#000000,#161b22,#333333,#666666,#999999,#ffffff
 
       - name: Push the generated files
         uses: EndBug/add-and-commit@v9
