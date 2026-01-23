@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Hugoritimo">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Victor+Hugo;Backend+Developer;Building+Digital+Architectures" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Victor+Hugo;Desenvolvedor+Backend;Criando+Arquiteturas+Digitais" alt="Typing SVG" />
   </a>
 </div>
 
@@ -8,13 +8,13 @@
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake.svg" width="600">
+    <img alt="Animação da cobrinha de contribuição" src="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake.svg" width="600">
   </picture>
 </div>
 
 ---
 
-### <div align="center">⚡ Engineering & Automation</div>
+### <div align="center">⚡ Engenharia e Automação</div>
 
 <div align="center">
   
@@ -52,15 +52,15 @@
 ### 📊 Métricas
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=000000" height="170" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&bg_color=000000" height="170" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=000000&locale=pt-br" height="170" alt="estatísticas do github" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&bg_color=000000&locale=pt-br" height="170" alt="linguagens mais usadas" />
 </div>
 
 ---
 
 ### 🎯 Foco Atual
 
-> *"Live long and code prosper."*
+> *"Vida longa e próspera ao código."*
 
 Estou expandindo minha stack para arquiteturas mais robustas e escaláveis.
 
