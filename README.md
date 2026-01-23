@@ -1,94 +1,78 @@
-<table width="100%">
-  <tr>
-    <td valign="top" width="70%">
-      
-<h1 align="center">
+<div align="center">
+  <a href="https://github.com/Hugoritimo">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Victor+Hugo;Backend+Developer;Building+Digital+Architectures" alt="Typing SVG" />
+  </a>
+</div>
 
-  [![Typing SVG](https://readme-typing-svg.demolab.com?lines=Victor_Hugo;Victor_Hugo;Victor_Hugo&center=true&width=600&height=60&color=FFFFFF&vCenter=true&size=50&duration=7000&pause=2000)](https://github.com/Hugoritimo)
-
-</h1>
-
-<picture align="center">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake-dark.svg">
-  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake.svg" style="width: 100%; max-width: 600px;">
-</picture>
-
-  </td>
-    <td align="center" width="18%">
-      <img src="https://media.giphy.com/media/L5lpqXpERqEThETyI4/giphy.gif" alt="GIF" style="max-width: 100%; height: auto;" />
-    </td>
-  </tr>
-</table>
-
-
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake.svg">
+    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake.svg" width="600">
+  </picture>
+</div>
 
 ---
 
-## 💼 Sobre Mim
+### <div align="center">⚡ Engineering & Automation</div>
 
-- Desenvolvimento fullstack web e desktop  
-- Automação de processos internos  
-- Otimização de desempenho e arquitetura de sistemas  
-- Boas práticas de versionamento e documentação  
-- Aprendizado contínuo e colaboração com propósito
+<div align="center">
+  
+  <img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Django-000000?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white" />
+  <br/>
+  
+  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-000000?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tauri-000000?style=for-the-badge&logo=tauri&logoColor=white" />
 
----
-
-## 🛠️ Tecnologias
-
-**Front-end**  
-JavaScript · TypeScript · React · Next.js · Tailwind CSS · Tauri  
-
-**Back-end**  
-Node.js · NestJS · PostgreSQL · Django · Docker  
-
----
-
-## 🌟 Projetos em Destaque
-
-- [**Construlink**](https://github.com/Hugoritimo/ConstruLink.git) 
-  Plataforma de RDO (Relatorio Diário de Obra) voltada para importação e exportação de Dados
-
-- [**TechGO**](https://github.com/Hugoritimo/TechGO.git)
-  Aplicativo de suporte que busca os técnicos de sua região
-
-- [**NFSCheckout**](https://github.com/Hugoritimo/NFSCheckout.git) 
-  Sistema de Exportação de Dados de uma nota fiscal e buscar os melhores fornecedores usando IA,  Tauri JS para front end e Python para exportação de Dados no backend.
+</div>
 
 ---
 
-## 📈 Estatísticas
+### 📂 Projetos Selecionados
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=adbac7&icon_color=58a6ff)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=adbac7)
+| **NFSCheckout** 🧾 | **Construlink** 🏗️ |
+| :--- | :--- |
+| **Automação Fiscal & IA**<br>App desktop híbrido para triagem inteligente de fornecedores via análise de notas fiscais.<br><br>`Python` `Tauri` `IA` | **Gestão de RDO & Dados**<br>Plataforma para construção civil focada em integridade de dados e relatórios massivos.<br><br>`Next.js` `PostgreSQL` |
+| [🔗 Ver Código](https://github.com/Hugoritimo/NFSCheckout.git) | [🔗 Ver Código](https://github.com/Hugoritimo/ConstruLink.git) |
 
----
-
-## 📚 Atualmente Estudando
-
-- Spring Boot com Java para back-end escalável  
-- FastAPI com Python e automações inteligentes  
-- Integração com APIs de assinatura digital (D4Sign, DocuSign)  
-- Otimização de UX com ShadCN UI e animações com Framer Motion
+| **TechGO** 📍 | **Em Breve** 🚀 |
+| :--- | :--- |
+| **Suporte Geolocalizado**<br>Sistema de conexão em tempo real entre clientes e técnicos regionais.<br><br>`React` `Node.js` | **Portfolio V2**<br>Integração de novas stacks de automação e performance.<br><br>`...` |
+| [🔗 Ver Código](https://github.com/Hugoritimo/TechGO.git) | --- |
 
 ---
 
-## ⚙️ Ferramentas que utilizo no dia a dia
+### 📊 Métricas
 
-- Visual Studio Code com JetBrains Mono  
-- Git e GitHub Actions  
-- Docker para ambientes isolados
-
----
-
-## 🤝 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Hugoritimo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hugoritimo)
-[![GitHub](https://img.shields.io/badge/GitHub-Hugoritimo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugoritimo)
-![Disponível para oportunidades](https://img.shields.io/badge/Dispon%C3%ADvel_para_Oportunidades-Yes-181717?style=for-the-badge&logo=github&logoColor=white)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&icon_color=ffffff&bg_color=000000" height="170" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=999999&bg_color=000000" height="170" alt="languages graph" />
+</div>
 
 ---
 
-> _"Live long and code prosper."_  
-> Sempre aberto a projetos, ideias e conexões que unem tecnologia, criatividade e impacto real.
+### 🎯 Foco Atual
+
+> *"Live long and code prosper."*
+
+Estou expandindo minha stack para arquiteturas mais robustas e escaláveis.
+
+- **Backend:** Aprofundando em `Spring Boot (Java)` e `FastAPI`.
+- **Integrações:** Implementando `D4Sign` e `DocuSign` para fluxos contratuais.
+- **Frontend/UX:** Refinando interfaces com `ShadCN UI` e `Framer Motion`.
+
+---
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/Hugoritimo)
+  [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hugoritimo)
+  
+</div>
