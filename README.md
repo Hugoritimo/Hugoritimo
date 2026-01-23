@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://github.com/Hugoritimo">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=38&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Victor+Hugo;Desenvolvedor+Backend;Criando+Arquiteturas+Digitais" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=34&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Victor+Hugo;Desenvolvedor+Backend;Arquitetura+de+Software" alt="Typing SVG" />
   </a>
 </div>
 
