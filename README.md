@@ -1,4 +1,4 @@
-<img src="./assets/dots-header.svg" width="100%" alt="" />
+<img src="./assets/dots.svg" width="100%" alt="" />
 
 <div align="center">
   <picture>
