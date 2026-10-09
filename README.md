@@ -1,9 +1,8 @@
-<img src="./assets/dots.svg" width="100%" alt="" />
-
 <div align="center">
+  <img src="./assets/dots.svg" width="80" height="80" alt="" />
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=800&size=56&duration=1200&pause=100000&color=EFE8D8&center=true&vCenter=true&repeat=false&width=620&height=80&lines=Victor+Hugo">
-    <img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=800&size=56&duration=1200&pause=100000&color=0B0A08&center=true&vCenter=true&repeat=false&width=620&height=80&lines=Victor+Hugo" alt="Victor Hugo" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=800&size=56&duration=1200&pause=100000&color=EFE8D8&center=true&vCenter=true&repeat=false&width=340&height=80&lines=Victor+Hugo">
+    <img src="https://readme-typing-svg.demolab.com?font=Bricolage+Grotesque&weight=800&size=56&duration=1200&pause=100000&color=0B0A08&center=true&vCenter=true&repeat=false&width=340&height=80&lines=Victor+Hugo" alt="Victor Hugo" />
   </picture>
   <br/>
   <picture>
@@ -76,5 +75,3 @@ Desenvolvo sistemas internos que substituem planilhas e processos manuais por fl
     <img alt="Gráfico de contribuições animado" src="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
 </div>
-
-<img src="./assets/dots-footer.svg" width="100%" alt="" />
