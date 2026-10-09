@@ -63,15 +63,8 @@ Desenvolvo sistemas internos que substituem planilhas e processos manuais por fl
 **Em aprofundamento:** Spring Boot e FastAPI no backend; integrações de assinatura eletrônica com D4Sign e DocuSign.
 
 ---
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hugoritimo&show_icons=true&hide_rank=true&hide_border=true&bg_color=0B0A08&title_color=FFB000&text_color=EFE8D8&icon_color=FFB000&locale=pt-br" height="150" alt="Estatísticas do GitHub" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hugoritimo&layout=compact&hide_border=true&bg_color=0B0A08&title_color=FFB000&text_color=EFE8D8&locale=pt-br" height="150" alt="Linguagens mais usadas" />
 </div>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake-dark.svg">
-    <img alt="Gráfico de contribuições animado" src="https://raw.githubusercontent.com/Hugoritimo/Hugoritimo/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</div>
